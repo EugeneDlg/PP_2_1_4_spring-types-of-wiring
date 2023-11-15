@@ -2,7 +2,6 @@ package koschei.models;
 
 
 public class Duck5 {
-
     private final Egg6 egg6;
 
     public Duck5(Egg6 egg6) {
